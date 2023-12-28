@@ -1,0 +1,41 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Skyrim REMASTERED",
+    "description": "Skyrim REMASTERED offers comprehensive visual and gameplay overhaul without adding anything new to the table. ",
+    "author": "Tpiac aka Ramhha",
+    "maintainers": [
+      "github/Tpiac"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Lore-friendly",
+      "Official",
+      "Special Edition",
+      "NeverNude"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Tpiac/Skyrim-REMASTERED/main/SkyrimREMASTEREDBanner.png",
+      "readme": "https://github.com/Tpiac/Skyrim-REMASTERED/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "Skyrim_REMASTERED",
+      "discordURL": "https://discord.gg/AHW33bnUb5"
+    },
+    "download_metadata": {
+      "Hash":"imTD4l2QKTQ=",
+      "Size":855435296,
+      "NumberOfArchives":1837,
+      "SizeOfArchives":105096037662,
+      "NumberOfInstalledFiles":143548,
+      "SizeOfInstalledFiles":103015235191
+    },
+    "version": "1.1.0"
+  }
+]
