@@ -28,13 +28,13 @@
       "discordURL": "https://discord.gg/AHW33bnUb5"
     },
     "download_metadata": {
-      "Hash":"imTD4l2QKTQ=",
-      "Size":855435296,
-      "NumberOfArchives":1837,
-      "SizeOfArchives":105096037662,
-      "NumberOfInstalledFiles":143548,
-      "SizeOfInstalledFiles":103015235191
+      "Hash":"0WApESSqvYk=",
+      "Size":856691510,
+      "NumberOfArchives":1867,
+      "SizeOfArchives":109857877293,
+      "NumberOfInstalledFiles":150040,
+      "SizeOfInstalledFiles":110197886360
     },
-    "version": "1.1.0"
+    "version": "1.2.0"
   }
 ]
