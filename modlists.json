@@ -23,18 +23,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Tpiac/Skyrim-REMASTERED/main/SkyrimREMASTEREDBanner.png",
       "readme": "https://github.com/Tpiac/Skyrim-REMASTERED/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim%20REMASTERED.wabbajack_0a165d0e-52fc-44e6-9685-d6c710dcfac9",
+      "download": "https://authored-files.wabbajack.org/Skyrim%20REMASTERED.wabbajack_42b3df45-f544-406c-a41c-16ba6d558f9b",
       "machineURL": "Skyrim_REMASTERED",
       "discordURL": "https://discord.gg/AHW33bnUb5"
     },
     "download_metadata": {
-      "Hash":"UBOXnVSQFik=",
-      "Size":1027571466,
-      "NumberOfArchives":1895,
-      "SizeOfArchives":112341635898,
-      "NumberOfInstalledFiles":190750,
-      "SizeOfInstalledFiles":108386871332
+      "Hash":"XmzrhAPIBMw=",
+      "Size":1019948124,
+      "NumberOfArchives":1897,
+      "SizeOfArchives":112357104939,
+      "NumberOfInstalledFiles":190755,
+      "SizeOfInstalledFiles":108387057758
     },
-    "version": "1.4.3"
+    "version": "1.4.4"
   }
 ]
