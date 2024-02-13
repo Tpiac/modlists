@@ -37,4 +37,41 @@
     },
     "version": "1.5.3.1"
   }
+  {
+    "title": "Fallout 4 REMASTERED",
+    "description": "Survival based compherensive overhaul same as Skyrim REMASTERED: performance, visuals and gameplay overhaul without anything new ",
+    "author": "Tpiac aka Ramhha",
+    "maintainers": [
+      "github/Tpiac"
+    ],
+    "game": "fallout4",
+    "official": true,
+    "tags": [
+      "Official",
+      "Nevernude",
+      "Lore-Friendly",
+      "Vanilla Plus"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Tpiac/Skyrim-REMASTERED/main/Fallout4_REMASTERED.png",
+      "download": "https://authored-files.wabbajack.org/Fallout%204%20REMASTERED.wabbajack_30a11160-162b-4a1e-8b0c-6dc6aacf78c6",
+      "machineURL": "Fallout4_REMASTERED",
+      "discordURL": "https://discord.gg/AHW33bnUb5"
+    },
+    "download_metadata": {
+      "Hash":"AUEUdv/Z4X0=",
+      "Size":769010273,
+      "NumberOfArchives":414,
+      "SizeOfArchives":90193477240,
+      "NumberOfInstalledFiles":12199,
+      "SizeOfInstalledFiles":89686785686
+    },
+    "version": "1.1.0"
+  }
 ]
