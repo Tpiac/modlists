@@ -23,19 +23,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Tpiac/Skyrim-REMASTERED/main/SkyrimREMASTEREDBanner.png",
       "readme": "https://github.com/Tpiac/Skyrim-REMASTERED/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim%20REMASTERED.wabbajack_460a6560-da8a-4fba-991f-3e9f18665d16",
+      "download": "https://authored-files.wabbajack.org/Skyrim%20REMASTERED.wabbajack_bae7d913-f2c4-4255-a9b0-84d790761668",
       "machineURL": "Skyrim_REMASTERED",
       "discordURL": "https://discord.gg/AHW33bnUb5"
     },
     "download_metadata": {
-      "Hash":"16v3O31+PK8=",
-      "Size":1256073210,
-      "NumberOfArchives":1979,
-      "SizeOfArchives":118417998378,
-      "NumberOfInstalledFiles":203600,
-      "SizeOfInstalledFiles":115808931070
+      "Hash":"a/MopxDviYo=",
+      "Size":1280537023,
+      "NumberOfArchives":1990,
+      "SizeOfArchives":118744813564,
+      "NumberOfInstalledFiles":203193,
+      "SizeOfInstalledFiles":116355550051
     },
-    "version": "1.5.3.1"
+    "version": "1.5.3.2"
   },
   {
     "title": "Fallout 4 REMASTERED",
@@ -61,18 +61,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Tpiac/Skyrim-REMASTERED/main/Fallout4_REMASTERED.png",
       "readme": "https://www.nexusmods.com/fallout4/mods/78677",
-      "download": "https://authored-files.wabbajack.org/Fallout%204%20REMASTERED.wabbajack_30a11160-162b-4a1e-8b0c-6dc6aacf78c6",
+      "download": "https://authored-files.wabbajack.org/Fallout%204%20REMASTERED.wabbajack_62d90915-70a0-46d1-8835-a464cc18418a",
       "machineURL": "Fallout4_REMASTERED",
       "discordURL": "https://discord.gg/AHW33bnUb5"
     },
     "download_metadata": {
-      "Hash":"AUEUdv/Z4X0=",
-      "Size":769010273,
-      "NumberOfArchives":414,
-      "SizeOfArchives":90193477240,
-      "NumberOfInstalledFiles":12199,
-      "SizeOfInstalledFiles":89686785686
+      "Hash":"w1UDFWP/FIA=",
+      "Size":769042469,
+      "NumberOfArchives":427,
+      "SizeOfArchives":90197646879,
+      "NumberOfInstalledFiles":12230,
+      "SizeOfInstalledFiles":89691489436
     },
-    "version": "1.1.0"
+    "version": "1.1.1"
   }
 ]
