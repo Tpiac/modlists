@@ -23,19 +23,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Tpiac/Skyrim-REMASTERED/main/SkyrimREMASTEREDBanner.png",
       "readme": "https://github.com/Tpiac/Skyrim-REMASTERED/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim%20REMASTERED.wabbajack_c273c28a-de16-492a-8165-ff7cf6d1e421",
+      "download": "https://authored-files.wabbajack.org/Skyrim%20REMASTERED.wabbajack_8eaaceaf-3140-41d0-8993-e8ee45f7875d",
       "machineURL": "Skyrim_REMASTERED",
       "discordURL": "https://discord.gg/AHW33bnUb5"
     },
     "download_metadata": {
-      "Hash":"U2UWLZ5sHp8=",
-      "Size":1461772074,
-      "NumberOfArchives":1979,
-      "SizeOfArchives":114606815483,
-      "NumberOfInstalledFiles":129427,
-      "SizeOfInstalledFiles":110238891921
+      "Hash":"G+HornFKuME=",
+      "Size":1522535712,
+      "NumberOfArchives":1978,
+      "SizeOfArchives":115739409004,
+      "NumberOfInstalledFiles":127484,
+      "SizeOfInstalledFiles":112239165999
     },
-    "version": "1.5.4.1"
+    "version": "1.5.4.2"
   },
   {
     "title": "Fallout 4 REMASTERED",
