@@ -61,18 +61,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Tpiac/Skyrim-REMASTERED/main/Fallout4_REMASTERED.png",
       "readme": "https://www.nexusmods.com/fallout4/mods/78677",
-      "download": "https://authored-files.wabbajack.org/Fallout%204%20REMASTERED.wabbajack_cf3137e7-95dc-4fad-b3e3-8225edafae1a",
+      "download": "https://authored-files.wabbajack.org/Fallout%204%20REMASTERED.wabbajack_5e8285ec-8b8e-4267-b42c-223edc156bf8",
       "machineURL": "Fallout4_REMASTERED",
       "discordURL": "https://discord.gg/AHW33bnUb5"
     },
     "download_metadata": {
-      "Hash":"H6T1CIFWjKs=",
-      "Size":796869865,
-      "NumberOfArchives":467,
-      "SizeOfArchives":90217421928,
-      "NumberOfInstalledFiles":12459,
-      "SizeOfInstalledFiles":89875012609
+      "Hash":"IWUGbcsfxYQ=",
+      "Size":874003020,
+      "NumberOfArchives":472,
+      "SizeOfArchives":90217436029,
+      "NumberOfInstalledFiles":12501,
+      "SizeOfInstalledFiles":89959294433
     },
-    "version": "1.2.0"
+    "version": "1.2.1"
   }
 ]
