@@ -1,8 +1,8 @@
 [
   {
-    "title": "Skyrim REMASTERED",
-    "description": "Skyrim REMASTERED offers comprehensive visual and gameplay overhaul without adding anything new to the table. ",
-    "author": "Tpiac aka Ramhha",
+    "title": "Skyrim REMASTERED Edition",
+    "description": "A flashed-out experience that you had back in 2011.",
+    "author": "Τριάς",
     "maintainers": [
       "github/Tpiac"
     ],
@@ -23,56 +23,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Tpiac/Skyrim-REMASTERED/main/SkyrimREMASTEREDBanner.png",
       "readme": "https://github.com/Tpiac/Skyrim-REMASTERED/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim%20REMASTERED.wabbajack_c4be0a1d-a9a9-4e20-8ae4-78a5ca8c1f40",
+      "download": "https://authored-files.wabbajack.org/Skyrim%20REMASTERED%20Edition.wabbajack_32075b90-7202-4ff1-8af4-eda829252e55",
       "machineURL": "Skyrim_REMASTERED",
       "discordURL": "https://discord.gg/AHW33bnUb5"
     },
     "download_metadata": {
-      "Hash":"P+hMaGPpJ2c=",
-      "Size":1580403236,
-      "NumberOfArchives":1978,
-      "SizeOfArchives":115739409004,
-      "NumberOfInstalledFiles":127495,
-      "SizeOfInstalledFiles":112235530498
+      "Hash":"yEkxHVgjgnU=",
+      "Size":1403366199,
+      "NumberOfArchives":1713,
+      "SizeOfArchives":101137930518,
+      "NumberOfInstalledFiles":110491,
+      "SizeOfInstalledFiles":112505351227
     },
-    "version": "1.5.4.2"
-  },
-  {
-    "title": "Fallout 4 REMASTERED",
-    "description": "Survival based compherensive overhaul same as Skyrim REMASTERED: performance, visuals and gameplay overhaul without anything new ",
-    "author": "Tpiac aka Ramhha",
-    "maintainers": [
-      "github/Tpiac"
-    ],
-    "game": "fallout4",
-    "official": true,
-    "tags": [
-      "Official",
-      "Nevernude",
-      "Lore-Friendly",
-      "Vanilla Plus"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Tpiac/Skyrim-REMASTERED/main/Fallout4_REMASTERED.png",
-      "readme": "https://www.nexusmods.com/fallout4/mods/78677",
-      "download": "https://authored-files.wabbajack.org/Fallout%204%20REMASTERED.wabbajack_84c01d81-fe92-432f-924c-8280ccaef956",
-      "machineURL": "Fallout4_REMASTERED",
-      "discordURL": "https://discord.gg/AHW33bnUb5"
-    },
-    "download_metadata": {
-      "Hash":"anmYzjCU260=",
-      "Size":1618510165,
-      "NumberOfArchives":498,
-      "SizeOfArchives":92664889336,
-      "NumberOfInstalledFiles":15345,
-      "SizeOfInstalledFiles":91316479068
-    },
-    "version": "1.4"
+    "version": "2.0"
   }
 ]
