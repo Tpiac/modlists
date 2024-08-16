@@ -21,7 +21,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Tpiac/Skyrim-REMASTERED/main/SkyrimREMASTEREDBanner.png",
+      "image": "https://raw.githubusercontent.com/Tpiac/modlists/main/Skyrim_REMASTERED_Banner.png",
       "readme": "https://github.com/Tpiac/Skyrim-REMASTERED/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Skyrim%20REMASTERED%20Edition.wabbajack_c605e85b-c148-4f59-b4d8-fc2784acdcd5",
       "machineURL": "Skyrim_REMASTERED",
