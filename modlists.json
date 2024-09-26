@@ -36,5 +36,41 @@
       "SizeOfInstalledFiles":108766072538
     },
     "version": "2.0.1"
+  },
+  {
+    "title": "Fallout 4 REMASTERED",
+    "description": "This mod list enhances Fallout as a first-person shooter with RPG elements, where combat is unforgiving and lethal, especially without proper protection. Only the best equipment and your skill will help you survive. The mods are curated to avoid bloat and remain lore-friendly, enriching your experience while respecting the game's authentic atmosphere. Prepare for a challenging journey where every bullet counts!",
+    "author": "Τριάς",
+    "maintainers": [
+      "github/Tpiac"
+    ],
+    "game": "fallout4",
+    "official": true,
+    "tags": [
+      "Official",
+      "Nevernude",
+      "Lore-Friendly"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Tpiac/Fallout-4-REMASTERED/refs/heads/main/F4_REMASTERED_Banner.png",
+      "readme": "https://github.com/Tpiac/Fallout-4-REMASTERED/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/F4%20REMASTERED.wabbajack_c14127ef-6af6-4d12-ade9-a04b56b1d7ad",
+      "machineURL": "Fallout_4_REMASTERED",
+      "discordURL": "https://discord.gg/AHW33bnUb5"
+    },
+    "download_metadata": {
+      "Hash": "t5aXMKd8t4A=",
+      "Size": 416115840,
+      "NumberOfArchives": 524,
+      "SizeOfArchives": 101739567332,
+      "NumberOfInstalledFiles": 38924,
+      "SizeOfInstalledFiles": 93103228058
+    },
+    "version": "1.6.0"
   }
 ]
