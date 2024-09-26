@@ -57,7 +57,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Tpiac/Fallout-4-REMASTERED/refs/heads/main/F4_REMASTERED_Banner.png",
+      "image": "https://raw.githubusercontent.com/Tpiac/Fallout-4-REMASTERED/refs/heads/main/Banner.png",
       "readme": "https://github.com/Tpiac/Fallout-4-REMASTERED/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/F4%20REMASTERED.wabbajack_c14127ef-6af6-4d12-ade9-a04b56b1d7ad",
       "machineURL": "Fallout_4_REMASTERED",
