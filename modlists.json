@@ -59,18 +59,18 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Tpiac/Fallout-4-REMASTERED/refs/heads/main/Fallout4_REMASTERED.png",
       "readme": "https://github.com/Tpiac/Fallout-4-REMASTERED/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/F4%20REMASTERED.wabbajack_7b28176c-bee0-48bf-91ec-166f077cceae",
+      "download": "https://authored-files.wabbajack.org/F4%20REMASTERED.wabbajack_c62ff147-ab7e-46a4-a422-16beffcd5239",
       "machineURL": "Fallout_4_REMASTERED",
       "discordURL": "https://discord.gg/AHW33bnUb5"
     },
     "download_metadata": {
-      "Hash": "NPT9YOd3xZU=",
-      "Size": 360235823,
-      "NumberOfArchives": 529,
-      "SizeOfArchives": 99243995964,
-      "NumberOfInstalledFiles": 36490,
-      "SizeOfInstalledFiles": 93261826811
+      "Hash": "jiFkoz5PLTA=",
+      "Size": 615544880,
+      "NumberOfArchives": 519,
+      "SizeOfArchives": 102102401240,
+      "NumberOfInstalledFiles": 39025,
+      "SizeOfInstalledFiles": 93645932053
     },
-    "version": "1.6.1"
+    "version": "1.7"
   }
 ]
